@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1085064866009",
+    "project_id": "eventshop-fd48c",
+    "storage_bucket": "eventshop-fd48c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1085064866009:android:5952ebf36b017ca57a76c8",
+        "android_client_info": {
+          "package_name": "com.example.eventshop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_NznkHwpnVrSfRkVQYFta31Axjxyoh34"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
