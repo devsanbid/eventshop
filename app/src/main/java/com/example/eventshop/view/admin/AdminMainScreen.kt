@@ -55,7 +55,7 @@ fun AdminMainScreen(
                             fontWeight = FontWeight.Bold
                         )
                         Text(
-                            "EventBazaar Management",
+                            "Dailoma Management",
                             style = MaterialTheme.typography.bodySmall,
                             color = MaterialTheme.colorScheme.onSurfaceVariant
                         )
